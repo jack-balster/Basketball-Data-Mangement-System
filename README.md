@@ -8,5 +8,5 @@ Coach Page (if an existing coach is selected then their info will autofill in th
 
 
 
-Game Page (enter stats for a specific player or sort by game ID to view all player's stats from that specific game)
+Game Page (enter stats for a specific player or sort by game ID to view all of a player's stats from that specific game)
 ![gameBMS](https://user-images.githubusercontent.com/107078414/194194772-cdc51eb4-761a-44f8-bfbf-1cb1c94d2421.png)
